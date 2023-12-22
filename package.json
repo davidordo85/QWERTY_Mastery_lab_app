@@ -1,0 +1,15 @@
+{
+  "name": "qwerty-mastery-lab",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "David Ordoñez",
+  "license": "MIT",
+  "description": "",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "dependencies": {
+    "bulma": "^0.9.4",
+    "electron": "^28.1.0"
+  }
+}
